@@ -1,0 +1,9 @@
+Query: entry-level sales role needing communication
+→ SHL001: Sales Communication Test (Score: 0.6333)
+→ SHL002: Analyst Skills Battery (Score: 0.1728)
+
+Query: mid-level analyst with data interpretation
+→ SHL002: Analyst Skills Battery (Score: 0.91)
+
+Query: senior manager requiring leadership and conflict resolution
+→ SHL002: Analyst Skills Battery (Score: 0.72)
