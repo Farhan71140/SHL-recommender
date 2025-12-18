@@ -1,0 +1,24 @@
+[
+  {
+    "id": "SHL001",
+    "name": "Sales Communication Test",
+    "description": "Assesses verbal communication and persuasion skills for sales roles.",
+    "skills": ["communication", "sales", "customer service"],
+    "role_level": "entry",
+    "industry": "Retail",
+    "assessment_type": "test",
+    "duration": 30,
+    "language": ["English"]
+  },
+  {
+    "id": "SHL002",
+    "name": "Analyst Skills Battery",
+    "description": "Covers numerical reasoning, data interpretation, and attention to detail.",
+    "skills": ["numerical reasoning", "data analysis", "attention to detail"],
+    "role_level": "mid",
+    "industry": "Finance",
+    "assessment_type": "battery",
+    "duration": 60,
+    "language": ["English", "Hindi"]
+  }
+]
